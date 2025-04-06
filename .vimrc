@@ -9,6 +9,7 @@ set incsearch
 set tabstop=4
 set shiftwidth=4
 set expandtab
+set laststatus=2
 hi CursorLine cterm=none ctermbg=DarkMagenta ctermfg=White
 hi CursorColumn cterm=none ctermbg=DarkMagenta ctermfg=White
 set cursorcolumn
